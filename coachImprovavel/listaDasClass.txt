@@ -1,1 +1,4 @@
 <nav class="menu1">
+  <body data-home-page="index.html" data-home-page-title="Página Inicial" class="paginaInicial1" data-lang="pt"><header class="1" id="head1"><div class="2">
+        <nav class="menu1">
+<a class="botao1" href="#">
