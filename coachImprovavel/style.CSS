@@ -1,20 +1,47 @@
 body{
-    color: black;
+    background-color: black;
+}
+h1 {
+    color: gold;
+    font-family: 'Courier New';
+    ext-align: center;
+    font-weight: bold;
 }
 .titulo1 {
     text-align: center;
+    position: absolute;
+    width: 100%;
+    float: left;
+}
+.titulo1 img {
+    width: 100%;
+    height: 300px;
+    position: relative;
+    margin-top: 0px;
+    margin-top: 0px;
 }
 .texto1 {
     font-family: 'Courier New';
     font-size: medium;
     text-align: center;
+    font-weight: bold;
+    color: gold;
+    float: left;
 }
 .blocos1 {
-
+    float: left;
+    width: 33%;
 }
 .blocos2 {
-
+    float: left;
+    width: 33%;
+}
+.formulario1 {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
 }
 .blocos3 {
-
+    float: left;
+    width: 33%;
 }
