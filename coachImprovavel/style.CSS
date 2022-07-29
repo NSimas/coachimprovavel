@@ -3,6 +3,9 @@ body{
 }
 .titulo1 {
     text-align: center;
+    float: left;
+    
+
 }
 .texto1 {
     font-family: 'Courier New';
@@ -12,14 +15,17 @@ body{
     color: gold;
 }
 .blocos1 {
-
+    float: left;
+    width: 33%;
 }
 .blocos2 {
-
+    float: left;
+    width: 33%;
 }
 .formulario1 {
 
 }
 .blocos3 {
-
+    float: left;
+    width: 33%;
 }
