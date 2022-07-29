@@ -1,11 +1,13 @@
 body {
     background-color: black;
+
 }
 h1 {
     color: gold;
     font-family: 'Courier New';
-    ext-align: center;
+    text-align: center;
     font-weight: bold;
+    
 }
 .titulo1 {
     display: flex;

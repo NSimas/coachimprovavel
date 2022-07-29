@@ -1,0 +1,100 @@
+body {
+    background-color: black;
+    margin: 0px;
+}
+
+.titulo1 {
+    display: flex;
+    justify-content: center;
+    color: gold;
+    font-family: 'Courier New';
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+}
+.titulo1 img {
+    width: 100%;
+    height: 300px;
+}
+.container1 {
+    width: 100%;
+    height: 300px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: row;
+    align-items: row;
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.container2 {
+    width: 30%;
+
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: row;
+    align-items: row;
+}
+.container3 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+}
+.container4 {
+    margin-top: 301px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.titulo1 img {
+    position: auto;
+    width: 100%;
+    height: 300px;
+}
+.texto1 {
+    color: gold;
+    font-family: 'Courier New';
+    text-align: center;
+    font-weight: bold;
+
+
+}
+.blocos1 {
+    color: gold;
+    font-family: 'Courier New';
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+
+    width: 30%;
+}
+.blocos2 {
+    color: gold;
+    font-family: 'Courier New';
+    text-align: center;
+    font-weight: bold;
+    margin: 20px;
+    justify-content: center;
+    width: 200px;
+    position: relative;
+
+}
+.formulario1 {
+
+    
+}
+.blocos3 {
+    width: 30%;
+    color: gold;
+    font-family: 'Courier New';
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+
+}
