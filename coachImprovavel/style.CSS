@@ -9,9 +9,16 @@ h1 {
 }
 .titulo1 {
     text-align: center;
-    float: left;
-    width: 100%;
     position: absolute;
+    width: 100%;
+    float: left;
+}
+.titulo1 img {
+    width: 100%;
+    height: 300px;
+    position: relative;
+    margin-top: 0px;
+    margin-top: 0px;
 }
 .texto1 {
     font-family: 'Courier New';
@@ -19,6 +26,7 @@ h1 {
     text-align: center;
     font-weight: bold;
     color: gold;
+    float: left;
 }
 .blocos1 {
     float: left;
@@ -29,7 +37,9 @@ h1 {
     width: 33%;
 }
 .formulario1 {
-
+    background-color: black;
+    display: flex;
+    flex-direction: column;
 }
 .blocos3 {
     float: left;
