@@ -71,7 +71,7 @@ body {
     font-family: 'Courier New';
     text-align: center;
     font-weight: bold;
-
+    margin: 20px;
     justify-content: center;
     width: 33%;
 }
