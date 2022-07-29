@@ -1,4 +1,4 @@
-body{
+body {
     background-color: black;
 }
 h1 {
@@ -8,17 +8,16 @@ h1 {
     font-weight: bold;
 }
 .titulo1 {
-    text-align: center;
-    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     width: 100%;
     float: left;
 }
 .titulo1 img {
-    width: 100%;
-    height: 300px;
-    position: relative;
-    margin-top: 0px;
-    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
 }
 .texto1 {
     font-family: 'Courier New';
@@ -29,10 +28,15 @@ h1 {
     float: left;
 }
 .blocos1 {
-    float: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
     width: 33%;
 }
 .blocos2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     float: left;
     width: 33%;
 }
@@ -44,4 +48,7 @@ h1 {
 .blocos3 {
     float: left;
     width: 33%;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
 }
