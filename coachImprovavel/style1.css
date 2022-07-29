@@ -49,6 +49,7 @@ body {
     margin-top: 301px;
     position: absolute;
     display: flex;
+    flex-direction: row;
     justify-content: center;
     width: 100%;
 }
@@ -70,8 +71,7 @@ body {
     font-family: 'Courier New';
     text-align: center;
     font-weight: bold;
-    position: relative;
-
+    margin: 2px;
     width: 30%;
 }
 .blocos2 {
@@ -83,6 +83,7 @@ body {
     justify-content: center;
     width: 200px;
     position: relative;
+    margin: 2px;
 
 }
 .formulario1 {
@@ -96,5 +97,6 @@ body {
     text-align: center;
     font-weight: bold;
     position: relative;
+    margin: 2px;
 
 }
