@@ -1,11 +1,16 @@
 body{
     background-color: black;
 }
+h1 {
+    color: gold;
+    font-family: 'Courier New';
+    ext-align: center;
+    font-weight: bold;
+}
 .titulo1 {
     text-align: center;
     float: left;
     width: 100%;
-
 }
 .texto1 {
     font-family: 'Courier New';
