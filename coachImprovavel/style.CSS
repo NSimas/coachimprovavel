@@ -29,10 +29,15 @@ h1 {
     float: left;
 }
 .blocos1 {
-    float: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
     width: 33%;
 }
 .blocos2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     float: left;
     width: 33%;
 }
@@ -44,4 +49,7 @@ h1 {
 .blocos3 {
     float: left;
     width: 33%;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
 }
