@@ -1,6 +1,9 @@
 body{
     color: black;
 }
+.titulo1 {
+    text-align: center;
+}
 .texto1 {
     font-family: 'Courier New';
     font-size: medium;
@@ -13,5 +16,5 @@ body{
 
 }
 .blocos3 {
-    
+
 }
