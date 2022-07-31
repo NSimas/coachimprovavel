@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: white;
     margin: 0px;
 }
 
@@ -15,6 +15,40 @@ body {
 .titulo1 img {
     width: 100%;
     height: 300px;
+}
+.col-lg-12-mb-4-mt-2-text-center{
+    background-image: url(tijolos.jpg); 
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+.col-lg-12-mb-4-mt-2-text-center h2{
+    color: goldenrod;
+    font-family: unset;
+    font-size: 50px;
+    font-weight: 1000px;
+}
+.col-lg-12-mb-4-mt-2-text-center h3{
+    color: goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500px;
+}
+.col-lg-12-mb-4-mt-2-text-center h5{
+    color: gold;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500px;
+}
+.col-lg-12-mb-4-mt-2-text-center ul{
+    color: yellowgreen;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500px;
+}
+.col-lg-12-mb-4-mt-2-text-center p{
+    color: gold;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500px;
 }
 .container1 {
     width: 100%;
